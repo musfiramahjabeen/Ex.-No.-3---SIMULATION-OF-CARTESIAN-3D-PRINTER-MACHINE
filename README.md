@@ -62,8 +62,7 @@
 
 ### Name: MUSFIRA MAHJABEEN M
 ### Register Number: 212223230130
-![Screenshot 2024-04-27 104556](https://github.com/musfiramahjabeen/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971008/90718d9b-2ac7-4461-b83a-b5b03b319935)
-
+![image](https://github.com/SaravananPV3010/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139754526/936b6c7f-74f9-4f0c-9862-297c50ff7be9)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
